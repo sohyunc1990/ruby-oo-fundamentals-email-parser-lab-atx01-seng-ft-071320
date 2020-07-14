@@ -26,3 +26,12 @@ class EmailAddressParser
 
 >>>>>>> 8491c1e9b8d54d7e99f0b3e77ee878ef3d899aee
 end
+
+
+class Dog
+  def bark
+    puts "bark bark"
+  end
+end
+
+cymbi = Dog.new
